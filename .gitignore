@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+cmd
+.DS_Store
+.env
+node_modules/
+package-lock.json
+config/parser/config.local.yaml
+config/parserjob/config.local.yaml
