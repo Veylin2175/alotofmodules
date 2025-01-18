@@ -1,0 +1,5 @@
+log_level: "DEBUG"
+
+http_server:
+  host: "localhost"
+  port: 8976
